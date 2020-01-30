@@ -7,4 +7,10 @@ def countdown (x)
   X -= 1
 end
 
-def 
+def countdown_with_sleep (y)
+  time = Time.now
+    x = 9
+    sleep 1.second while x = 0
+    puts "HAPPY NEW YEAR!"
+    X -= 1
+  end

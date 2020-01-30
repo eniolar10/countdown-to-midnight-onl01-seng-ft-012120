@@ -6,3 +6,5 @@ def countdown (x)
   puts "HAPPY NEW YEAR!"
   X -= 1
 end
+
+def 
